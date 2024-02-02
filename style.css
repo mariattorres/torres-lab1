@@ -125,10 +125,13 @@ footer {
         width: 50%;
     }
 
+    .circles {
+        border-radius: 50%;
+    }
+
     #circle1 {
         height: 200px;
         width: 200px;
-        border-radius: 50%;
         background-color: rgba(247, 136, 167, 0.6);
         position: relative;
         top: 75px;
@@ -137,13 +140,11 @@ footer {
     #circle2 {
         height: 130px;
         width: 130px;
-        border-radius: 50%;
         background-color: rgba(247, 193, 162, 0.7);
     }
     #circle3 {
         height: 90px;
         width: 90px;
-        border-radius: 50%;
         background-color: rgba(207, 130, 121362, 0.6);
         position: relative;
         top: -190px;
